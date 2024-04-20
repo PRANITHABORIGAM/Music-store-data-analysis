@@ -1,5 +1,5 @@
 # Music-data-analysis
-Database and Tools
+Tools:
 --Postgre SQL
 --PgAdmin4
 
