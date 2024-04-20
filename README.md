@@ -1,4 +1,4 @@
-# Music-data-analysis
+# Music-store-data-analysis
 Tools:
 --Postgre SQL
 --PgAdmin4
